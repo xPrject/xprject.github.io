@@ -1,0 +1,4 @@
+AuthUserFile /css/.htpasswd
+AuthType Basic
+AuthName "Secret Ninja Tricks"
+Require valid-user
